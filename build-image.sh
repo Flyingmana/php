@@ -1,0 +1,1 @@
+docker build --tag 'my-php:7.3.33-fpm-alpine3.14' './7.3/alpine3.14/fpm'
